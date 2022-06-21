@@ -269,7 +269,7 @@ body{
 }
 
 .tarjeta-rest1 {
-    background-image: url(/fotos/shawarma.jpg);
+    background-image: url(fotos/shawarma.jpg);
     justify-content: center;
     background-size: cover;
 
@@ -282,7 +282,7 @@ body{
 }
 
 .tarjeta-rest2 {
-    background-image: url(/fotos/hummus.jpg);
+    background-image: url(fotos/hummus.jpg);
     justify-content: center;
     background-size: cover;
     
@@ -295,7 +295,7 @@ body{
 }
 
 .tarjeta-rest3 {
-    background-image: url(/fotos/falafel.jpg);
+    background-image: url(fotos/falafel.jpg);
     justify-content: center;
     background-size: cover;
 
@@ -308,7 +308,7 @@ body{
 }
 
 .tarjeta-rest4 {
-    background-image: url(/fotos/babagabush.jpg);
+    background-image: url(fotos/babagabush.jpg);
     justify-content: center;
     background-size: cover;
 
